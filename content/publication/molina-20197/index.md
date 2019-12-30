@@ -3,7 +3,7 @@ title: "Applying Memetic algorithm with Improved L-SHADE and Local Search Pool f
 date: 2019-01-01
 publishDate: 2019-12-30T14:59:53.122366Z
 authors: ["D. Molina", "F. Herrera"]
-publication_types: ["2"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2019 IEEE Congress on Evolutionary Computation, CEC 2019 - Proceedings*"
