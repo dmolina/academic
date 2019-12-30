@@ -3,7 +3,7 @@ title: "Comparing Large-Scale Global Optimization Competition winners in a real-
 date: 2019-01-01
 publishDate: 2019-12-30T14:59:53.122696Z
 authors: ["D. Molina", "A.R. Nesterenko", "A. Latorre"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2019 IEEE Congress on Evolutionary Computation, CEC 2019 - Proceedings*"

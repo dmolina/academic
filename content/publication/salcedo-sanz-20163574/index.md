@@ -3,7 +3,7 @@ title: "A coral reefs optimization algorithm with substrate layers and local sea
 date: 2016-01-01
 publishDate: 2019-12-30T14:59:53.149590Z
 authors: ["S. Salcedo-Sanz", "C. Camacho-Gomez", "D. Molina", "F. Herrera"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2016 IEEE Congress on Evolutionary Computation, CEC 2016*"

@@ -3,7 +3,7 @@ title: "Optimising real parameters using the information of a mesh of solutions:
 date: 2012-01-01
 publishDate: 2019-12-30T14:59:53.153202Z
 authors: ["A. Puris", "R. Bello", "D. Molina", "F. Herrera"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2012 IEEE Congress on Evolutionary Computation, CEC 2012*"

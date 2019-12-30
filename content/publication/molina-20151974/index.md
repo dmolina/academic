@@ -3,7 +3,7 @@ title: "Iterative hybridization of de with Local Search for the CEC'2015 special
 date: 2015-01-01
 publishDate: 2019-12-30T14:59:53.150137Z
 authors: ["D. Molina", "F. Herrera"]
-publication_types: ["0"]
+publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*2015 IEEE Congress on Evolutionary Computation, CEC 2015 - Proceedings*"

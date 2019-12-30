@@ -3,7 +3,7 @@ title: "Memetic algorithm with local search chaining for continuous optimization
 date: 2009-01-01
 publishDate: 2019-12-30T14:59:53.157076Z
 authors: ["D. Molina", "M. Lozano", "F. Herrera"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*ISDA 2009 - 9th International Conference on Intelligent Systems Design and Applications*"

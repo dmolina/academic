@@ -3,7 +3,7 @@ title: "Variable mesh optimization for the 2013 CEC Special Session Niching Meth
 date: 2013-01-01
 publishDate: 2019-12-30T14:59:53.152388Z
 authors: ["D. Molina", "A. Puris", "R. Bello", "F. Herrera"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2013 IEEE Congress on Evolutionary Computation, CEC 2013*"

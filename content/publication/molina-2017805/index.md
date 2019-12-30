@@ -3,7 +3,7 @@ title: "Analysis among winners of different IEEE CEC competitions on real-parame
 date: 2017-01-01
 publishDate: 2019-12-30T14:59:53.149021Z
 authors: ["D. Molina", "F. Moreno-García", "F. Herrera"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2017 IEEE Congress on Evolutionary Computation, CEC 2017 - Proceedings*"

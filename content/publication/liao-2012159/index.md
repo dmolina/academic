@@ -3,7 +3,7 @@ title: "An ACO algorithm benchmarked on the BBOB noiseless function testbed"
 date: 2012-01-01
 publishDate: 2019-12-30T14:59:53.153468Z
 authors: ["T. Liao", "D. Molina", "T. Stützle", "M.A. Montes De Oca", "M. Dorigo"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*GECCO'12 - Proceedings of the 14th International Conference on Genetic and Evolutionary Computation Companion*"

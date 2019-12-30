@@ -3,7 +3,7 @@ title: "Influence of regions on the memetic algorithm for the CEC'2014 Special S
 date: 2014-01-01
 publishDate: 2019-12-30T14:59:53.151529Z
 authors: ["D. Molina", "B. Lacroix", "F. Herrera"]
-publication_types: ["0"]
+publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 2014 IEEE Congress on Evolutionary Computation, CEC 2014*"
