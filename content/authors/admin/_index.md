@@ -23,8 +23,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Memetic algorithms
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Neuroevolution
 
 education:
   courses:
