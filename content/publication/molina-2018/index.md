@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*2018 IEEE Congress on Evolutionary Computation, CEC 2018 - Proceedings*"
-url_pdf: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056274128&doi=10.1109%2fCEC.2018.8477755&partnerID=40&md5=99e12fd5489e36d2541ac4c8dc5c5d83"
+url_pdf: "/pdfs/2478_WCCI2018_shadeils.pdf"
 doi: "10.1109/CEC.2018.8477755"
 ---
 
