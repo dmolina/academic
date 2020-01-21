@@ -1124,7 +1124,6 @@ En mi último curso, decidí dar una pequeña introducción sobre CMake:
 
 [[http://htmlpreview.github.io/?https://github.com/dmolina/intro_cmake/blob/master/cmake_es.html][file:/img/capture_spanish.png]]
 
-
 * OpenSource                                                    :@opensource:
 
 ** DONE Firefox 3.5 and Mouseless              :firefox:opensource:mouseless:
@@ -1324,3 +1323,27 @@ You can also use it for participate in the competition.
 
 I would like to take this opportunity to remind you that I too am organising
 [[https://dmolina.github.io/en/post/lsgo_cec2019/][another competition]], you do not any excuse :smile:.
+
+** DONE New LSGO Competition at the WCCI'2020
+   CLOSED: [2020-01-21 Tue 22:49]
+    :PROPERTIES:
+    :EXPORT_HUGO_TAGS: computer_science python
+    :EXPORT_FILE_NAME: wcci2020
+    :END:
+
+ [[file:/img/wcci2020.png]]
+
+ I write because I am organizing the [[https://www.tflsgo.org/special_sessions/wcci2020.html][Large-Scale Global Optimization Competition]]
+ at the [[https://wcci2020.org/][IEEE Congress on Evolutionary Computation WCCI'2020]], with interesting
+ news:
+
+ - I am not more the Chair of the IEEE CIS Task Force on Large Scale Global
+   Optimization, but I organize in collaboration with them.
+
+ - The new site [[https://tacolab.org][tacolab.org]] to compare your own proposals with existings ones, it
+   do the tables, figures and comparisons for you (including statistical
+   testing). Also, it includes data of all previous winners!
+
+ - The deadline is 30 January, there is still time.
+
+ So, there is not excuse for not participating, I wait you in Glasglow!
