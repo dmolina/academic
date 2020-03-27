@@ -23,7 +23,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "100%"
   
 [[feature]]
   icon = "java"
@@ -35,6 +35,6 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "30%"
 
 +++
